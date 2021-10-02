@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(236, 233, 141);
+}
+nav{
+    background-color: rgb(139, 19, 19);
+}
+footer{
+    background-color: chocolate;
+}
